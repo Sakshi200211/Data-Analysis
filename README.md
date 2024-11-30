@@ -9,4 +9,5 @@ Description:
   Developed a real-time facial recognition application to identify criminals by matching faces captured on camera with a comprehensive database. The app efficiently retrieves and displays criminal profiles, including names, committed offenses, and crime locations.
 
 Technologies:
+
 Python (Data analysis and visualization) Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
